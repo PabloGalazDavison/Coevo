@@ -1,8 +1,6 @@
 # Coevo-multiprotein
-Scripts and instructions to generate a paired MSA from a database.
+A google colab on a pipeline for doing protein-protein coevolution.
 
-How it works:
+The notebook using MSA Transformer is [here](link)
 
-Will do a demo on KaiBC.
-
-A) download KaiB sequence
+soon: Notebook using the [AF2_advanced](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/gamma/af/examples/predict.ipynb) coevolution analysis to be implemented soon.
